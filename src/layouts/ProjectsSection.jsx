@@ -1,5 +1,5 @@
 import ProjectCard from "../components/ProjectCard"
-import Link from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 const ProjectsSection = () => {
     const moreProjectClick = () => {
